@@ -19,6 +19,10 @@ var uppercase = string.toUpperCase
 var lowercase = string.toLowerCase
 var ily = "I love you, Grandma."
 if(uppercase === string.toUpperCase) {
-  return 
+  return "YES INDEED!"
+} else if (lowercase === string.toLowerCase) {
+  return "I can't hear you!"
+} else if (ily) {
+  return ""
 }
 }
