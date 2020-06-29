@@ -23,6 +23,7 @@ if(uppercase === string.toUpperCase) {
 } else if (lowercase === string.toLowerCase) {
   return "I can't hear you!"
 } else if (ily) {
-  return ""
+  return "I love you, too."
 }
+  
 }
