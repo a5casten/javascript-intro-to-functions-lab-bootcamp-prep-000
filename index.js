@@ -22,6 +22,6 @@ if(string.toUpperCase() === string) {
   return "I can't hear you!"
 } else if (string === ily) {
   return "I love you, too."
-}
-  
+} else {
+  return "Is that you, dear?"
 }
