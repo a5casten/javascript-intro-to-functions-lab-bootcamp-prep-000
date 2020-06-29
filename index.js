@@ -1,4 +1,3 @@
-string = "fish"
 function shout(string) {
   return string.toUpperCase()
 }
